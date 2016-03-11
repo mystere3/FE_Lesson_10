@@ -1,0 +1,11 @@
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: blue;
+}
+
+#grade-result {
+  font-size: 24pt;
+  font-weight: bolder;
+}
